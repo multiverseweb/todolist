@@ -42,7 +42,7 @@ delivery shop?
 >>- [ ] vocational course
 >>>- [ ] IIIPM Assignment
 >>>>- [ ] OS Assignments
->>>>>- [ ] NPTEL Assignment
+>>>>>- [x] NPTEL Assignment
 >>>>>>- [ ] SDUML Assignment
 
 ---
