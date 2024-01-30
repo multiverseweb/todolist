@@ -42,5 +42,7 @@ delivery shop?
 >>- [ ] vocational course
 >>>- [ ] OS Assignments
 >>>>- [ ] SDUML Assignment
+>>>>>- [ ] Reduce following
+>>>>>>- [ ] complete documentation
 
 ---
