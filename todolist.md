@@ -40,9 +40,7 @@ delivery shop?
 
 >- [ ] ER Diagram
 >>- [ ] vocational course
->>>- [ ] IIIPM Assignment
->>>>- [ ] OS Assignments
->>>>>- [x] NPTEL Assignment
->>>>>>- [ ] SDUML Assignment
+>>>- [ ] OS Assignments
+>>>>- [ ] SDUML Assignment
 
 ---
