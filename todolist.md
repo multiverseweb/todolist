@@ -40,8 +40,7 @@ delivery shop?
 
 >- [ ] ER Diagram
 >>- [ ] vocational course
->>>- [ ] SDUML Assignment
->>>>- [ ] Reduce following
->>>>>- [ ] complete documentation
+>>>- [ ] Reduce following
+>>>>- [ ] complete documentation
 
 ---
