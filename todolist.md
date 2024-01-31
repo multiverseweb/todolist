@@ -41,6 +41,5 @@ delivery shop?
 >- [ ] ER Diagram
 >>- [ ] vocational course
 >>>- [ ] Reduce following
->>>>- [ ] complete documentation
 
 ---
