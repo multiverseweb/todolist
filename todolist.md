@@ -38,8 +38,7 @@ delivery shop?
 29 January 2024
 ```
 
->- [ ] ER Diagram
->>- [ ] vocational course
->>>- [ ] Reduce following
+>- [ ] vocational course
+>>- [ ] Reduce following
 
 ---
