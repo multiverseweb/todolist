@@ -39,8 +39,5 @@ delivery shop?
 ```
 
 >- [ ] vocational course
->>- [x] BCVS assignment
->>>- [ ] blotic navbar
->>>>- [ ] IIC post
 
 ---
