@@ -12,6 +12,13 @@ delivery shop?
 
 ---
 
+```
+29 January 2024
+```
+
+>- [ ] vocational course
+---
+
 - [ ] JavaScript
 >- [ ] DSA (Leetcode)
 >>- [ ] ChatBot (Infinity)
@@ -34,9 +41,3 @@ delivery shop?
 
 ---
 
-```
-29 January 2024
-```
-
->- [ ] vocational course
----
