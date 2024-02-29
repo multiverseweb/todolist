@@ -39,5 +39,4 @@ delivery shop?
 ```
 
 >- [ ] vocational course
->>- [ ] DBOT repository
 ---
