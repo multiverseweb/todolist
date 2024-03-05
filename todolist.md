@@ -22,15 +22,12 @@ delivery shop?
 - [ ] JavaScript
 >- [ ] DSA (Leetcode)
 >>- [ ] ChatBot (Infinity)
->>>- [ ] MERN Stack
->>>>- [ ]  Increase Income
->>>>>- [ ] Understand stocks
->>>>>>- [ ] Upload Portfolio
->>>>>>>- [ ] Coding Image
->>>>>>>>- [ ] More Content
->>>>>>>>>- [ ] Astronomy link
->>>>>>>>>>- [ ] TG Logo
->>>>>>>>>>>- [ ] API
+>>>- [ ] Understand stocks
+>>>>- [ ] Upload Portfolio
+>>>>>- [ ] More Design
+>>>>>>- [ ] Astronomy link
+>>>>>>>- [ ] TG Logo
+>>>>>>>>- [ ] API
 
 ---
 
