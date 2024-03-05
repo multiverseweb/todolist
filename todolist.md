@@ -29,6 +29,10 @@ delivery shop?
 >>>>>>>- [ ] TG Logo
 >>>>>>>>- [ ] API
 
+-[ ] JavaScript
+-[ ] Shell scripting
+-[ ] API Development
+-[ ] Python GUI
 ---
 
 
