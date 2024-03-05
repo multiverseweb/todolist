@@ -18,21 +18,19 @@ delivery shop?
 
 >- [ ] vocational course
 ---
-
-- [ ] JavaScript
->- [ ] DSA (Leetcode)
->>- [ ] ChatBot (Infinity)
+
 >>>- [ ] Understand stocks
 >>>>- [ ] Upload Portfolio
 >>>>>- [ ] More Design
 >>>>>>- [ ] Astronomy link
->>>>>>>- [ ] TG Logo
->>>>>>>>- [ ] API
+>>>>>>>- [ ] TG Logo
 
 - [ ] JavaScript
 - [ ] Shell scripting
 - [ ] API Development
 - [ ] Python GUI
+- [ ] ChatBot
+- [ ] Leetcode
 
 ---
 
